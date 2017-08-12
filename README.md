@@ -4,5 +4,5 @@
 
 ### What are new the features in Android N  notification?
 * Direct reply
-* Bundled/Stacked notification
-* Messaging style notification
+* Bundled/Stacked notifications
+* Messaging style notifications
