@@ -1,8 +1,8 @@
 # Android-N-Notification
 
-### This demo is to display how to use new fratures of new notifications introduced in Android N.
+### This demo is to display how to use new features of new notifications introduced in Android N.
 
-### What are new fratures in Android N  notification?
-* Direct replay
+### What are new the features in Android N  notification?
+* Direct reply
 * Bundled/Stacked notification
 * Messaging style notification
